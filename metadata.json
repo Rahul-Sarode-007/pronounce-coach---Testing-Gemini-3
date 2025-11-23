@@ -1,0 +1,7 @@
+{
+  "name": "Pronunciation Pro Coach",
+  "description": "An expert AI coach that analyzes your American English pronunciation mechanics, rhythm, and stress.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
